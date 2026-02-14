@@ -3,7 +3,7 @@ on:
   workflow_call:
   workflow_dispatch:
   push:
-    branchs: "mkp"
+    branchs: "android-9-coloros-official"
 
 jobs:
   build:
